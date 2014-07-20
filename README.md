@@ -1,5 +1,7 @@
 # <a name="title"></a> chef-logstash [![Build Status](https://secure.travis-ci.org/lusis/chef-logstash.png?branch=master)](http://travis-ci.org/lusis/chef-logstash)
 
+[ ![Codeship Status for darylrobbins/chef-logstash](https://www.codeship.io/projects/1ee0b320-f24d-0131-8e05-6e1868db2282/status)](https://www.codeship.io/projects/27678)
+
 Description
 ===========
 
