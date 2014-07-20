@@ -26,6 +26,6 @@ build:
            name: berkshelf
            code: bundle exec berks install
 
-       - script:
-          name: test
-          code: bundle exec rake style spec
+        - script:
+            name: test
+            code: bundle exec rake style spec
